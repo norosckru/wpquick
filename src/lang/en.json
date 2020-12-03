@@ -1,0 +1,24 @@
+{
+    "locale": "en",
+    "header": {
+        "title": "Send WhatsApp without Schedule",
+        "lang": "EN"
+    },
+    "form": {
+        "place1": "Ex: 1408XXXXXXX",
+        "place2": "Write your message ... (I could use the emoticons on your keyboard)",
+        "button": "Generate Message and Send"
+    },
+    "help": {
+        "title": "How to use?",
+        "text": "Remember to put your country code followed by the area code. Example: For Argentina: 54, for Mexico 52"
+    },
+    "shareButton": {
+        "text": "Share App :)"
+    },
+    "privaci": {
+        "title": "Important - Data Privacy",
+        "text1": "The data you enter here will not be used in any way. We respect your privacy! 😊",
+        "text2": "We use the WhatsApp API to generate this service."
+    }
+}
